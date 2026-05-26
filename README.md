@@ -222,7 +222,7 @@ Streaming is enabled by default — responses appear token-by-token as the model
 
 ## 🎥 Demo
 > ## Video link 
-> 📹 **[https://drive.google.com/file/d/1VIrY_DiyR75Erln6p_9jkGKSeOCQpWRG/view?usp=sharing]**
+> 📹 ** https://drive.google.com/file/d/1VIrY_DiyR75Erln6p_9jkGKSeOCQpWRG/view?usp=sharing **
 
 ---
 
