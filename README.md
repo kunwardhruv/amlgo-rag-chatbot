@@ -228,19 +228,24 @@ Streaming is enabled by default — responses appear token-by-token as the model
 
 > **Welcome Screen**
 <img width="1918" height="962" alt="welcome" src="https://github.com/user-attachments/assets/af48a7b3-72fd-482f-bf04-2eebace93046" />
+<br><br>
 
 **Sidebar — Model Info & 88 Indexed Chunks**
 <img width="1919" height="960" alt="sidebar" src="https://github.com/user-attachments/assets/6976d26b-f4b2-401a-8341-d3771ddf2409" />
+<br><br>
 
 **Query: What is eBay's arbitration policy? — Success Case**
 <img width="1920" height="973" alt="arbitration" src="https://github.com/user-attachments/assets/d73c8af4-8418-472a-9b3e-c788585e2761" />
+<br><br>
 
 **Query: Can sellers charge outside of eBay? — Success Case with Source Chunks**
-<img width="1920" height="1080" alt="sellers" src="https://github.com/user-attachments/assets/a11f315b-b2be-4dc1-8532-c96552bc7937" />
+<img width="1920" height="972" alt="sellers" src="https://github.com/user-attachments/assets/88596073-61e7-4536-9f78-a6d8d32917c4" />
 <img width="1919" height="972" alt="sellers" src="https://github.com/user-attachments/assets/5f7c7854-f649-49f4-bd17-4def7fcf57a6" />
+<br><br>
 
 **Query: How can I opt out of arbitration? — Source Chunks Expanded**
 <img width="1919" height="830" alt="opt-out" src="https://github.com/user-attachments/assets/604ce2cf-8ab7-4d96-82f2-767bc5957185" />
+<br><br>
 
 **Query: Money Back Guarantee ✅ & Climate Change ❌ — Success + Failure Case**
 <img width="1918" height="962" alt="success-fail" src="https://github.com/user-attachments/assets/ca328ffa-fd0e-40da-9f33-ed3490ad3453" />
