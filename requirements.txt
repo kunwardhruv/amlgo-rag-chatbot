@@ -1,0 +1,39 @@
+# ── Core LangChain packages ──────────────────────────────────────────────────
+# langchain        : main framework for building RAG pipeline (retriever + generator)
+# langchain-groq   : Groq-specific integration for streaming LLM responses
+# langchain-huggingface : HuggingFace embeddings integration with LangChain
+# langchain-community   : FAISS vector store support lives here
+langchain==0.3.25
+langchain-groq==0.3.2
+langchain-huggingface==0.1.2
+langchain-community==0.3.23
+
+# ── Embedding Model ───────────────────────────────────────────────────────────
+# sentence-transformers : loads all-MiniLM-L6-v2 locally — no API key needed
+#                         fast inference, 384-dim vectors, great for semantic search
+sentence-transformers==3.4.1
+
+# ── Vector Database ───────────────────────────────────────────────────────────
+# faiss-cpu : Facebook's similarity search library — stores & queries our embeddings
+#             using cosine/L2 distance; no external server required
+faiss-cpu==1.9.0
+
+# ── Document Loading ─────────────────────────────────────────────────────────
+# pymupdf (fitz) : extracts raw text from PDF files page by page
+#                  more reliable than pypdf for complex legal PDFs
+pymupdf==1.25.5
+
+# ── Streamlit UI ─────────────────────────────────────────────────────────────
+# streamlit : builds the chatbot web interface
+#             supports st.write_stream() for real-time token streaming
+streamlit==1.45.1
+
+# ── Environment Variables ─────────────────────────────────────────────────────
+# python-dotenv : loads GROQ_API_KEY from .env file so we don't hardcode secrets
+python-dotenv==1.1.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+# numpy  : required by FAISS for vector operations
+# tqdm   : progress bar during embedding generation (useful for large docs)
+numpy==2.2.5
+tqdm==4.67.1
