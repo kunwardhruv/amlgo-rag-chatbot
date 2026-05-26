@@ -221,8 +221,8 @@ Streaming is enabled by default — responses appear token-by-token as the model
 ---
 
 ## 🎥 Demo
-
-> 📹 **[Demo Video / GIF — add link here after recording]**
+> ## Video link 
+> 📹 **[https://drive.google.com/file/d/1VIrY_DiyR75Erln6p_9jkGKSeOCQpWRG/view?usp=sharing]**
 
 ---
 
