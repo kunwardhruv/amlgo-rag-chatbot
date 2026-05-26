@@ -226,6 +226,8 @@ Streaming is enabled by default — responses appear token-by-token as the model
 
 ---
 
+## Screenshots 
+
 > ### Welcome Screen
 
 <img width="1918" height="962" alt="welcome" src="https://github.com/user-attachments/assets/af48a7b3-72fd-482f-bf04-2eebace93046" />
