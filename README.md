@@ -3,6 +3,7 @@
 
 An AI-powered chatbot that answers questions about eBay's User Agreement using a **Retrieval-Augmented Generation (RAG)** pipeline with **real-time token-by-token streaming responses**.
 
+> 🔗 **GitHub Repository:** [amlgo-rag-chatbot](https://github.com/kunwardhruv/amlgo-rag-chatbot)
 ---
 
 ## 📌 Project Architecture & Flow
