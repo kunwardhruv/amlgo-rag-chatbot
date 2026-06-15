@@ -1,5 +1,5 @@
 # ⚖️ RAG Chatbot — eBay User Agreement Assistant
-### Junior AI Engineer Assignment | Amlgo Labs
+
 
 An AI-powered chatbot that answers questions about eBay's User Agreement using a **Retrieval-Augmented Generation (RAG)** pipeline with **real-time token-by-token streaming responses**.
 
